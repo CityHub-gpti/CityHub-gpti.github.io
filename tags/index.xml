@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Cityhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Abertura</title>
       <link>/tags/abertura/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/abertura/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>canvas</title>
       <link>/tags/canvas/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/canvas/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>cronograma</title>
       <link>/tags/cronograma/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/cronograma/</guid>
       <description></description>
@@ -41,16 +41,34 @@
     <item>
       <title>custos</title>
       <link>/tags/custos/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/custos/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>gestão</title>
+      <link>/tags/gest%C3%A3o/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gest%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tempo</title>
+      <link>/tags/tempo/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tempo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Termo</title>
       <link>/tags/termo/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/termo/</guid>
       <description></description>

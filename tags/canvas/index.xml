@@ -6,7 +6,7 @@
     <description>Recent content in canvas on Cityhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Canvas do projeto</title>
       <link>/canvas/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/canvas/</guid>
-      <description></description>
+      <description>  .img-custom{ width: 100%; }  </description>
     </item>
     
   </channel>

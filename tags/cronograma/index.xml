@@ -6,7 +6,7 @@
     <description>Recent content in cronograma on Cityhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/cronograma/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Gestão de qualidade do projeto</title>
       <link>/docs/qualidade/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/docs/qualidade/</guid>
       <description>Objetivos deste documento Fornecer uma lista definindo os parâmetros de qualidade do projeto, bem como os graus que atendem os requisitos definidos

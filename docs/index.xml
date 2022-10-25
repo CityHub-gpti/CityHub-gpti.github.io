@@ -6,7 +6,7 @@
     <description>Recent content in Documentos on Cityhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Gestão de custos do projeto</title>
       <link>/docs/custos/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/docs/custos/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
@@ -24,7 +24,7 @@
     <item>
       <title>Gestão de qualidade do projeto</title>
       <link>/docs/qualidade/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/docs/qualidade/</guid>
       <description>Objetivos deste documento Fornecer uma lista definindo os parâmetros de qualidade do projeto, bem como os graus que atendem os requisitos definidos
@@ -32,9 +32,18 @@ Lista de Parâmetros de qualidade  Ações críticas que envolvem comunicação 
     </item>
     
     <item>
+      <title>Gestão de tempo do projeto</title>
+      <link>/docs/tempo/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/tempo/</guid>
+      <description>Cronograma - geral   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }   .img-custom{ width: 100%; }  </description>
+    </item>
+    
+    <item>
       <title>Termo de abertura do projeto</title>
       <link>/docs/termo-abertura/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/docs/termo-abertura/</guid>
       <description>Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial. Edgard Taver    Equipe do projeto    Nome Número USP     Edgard van Tol Taver 10686575   Gustavo Macedo Ribeiro 11366336   Felipe Munhos Escobar 11795620   Gabriel Braga Lagrotaria de Oliveira 11796600   Rodrigo Fernandes Gomes Vieira 11796548    Objetivo deste documento Autorizar formalmente o início do projeto Cityhub, contendo todas as informações necessárias para que o projeto seja apresentado, iniciado, desenvolvido e operado.</description>
