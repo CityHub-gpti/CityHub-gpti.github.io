@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/abertura/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/canvas/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/canvas/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/docs/cronograma/</loc>
+    <loc>/tags/custos/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +38,22 @@
   </url>
   
   <url>
+    <loc>/docs/custos/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/qualidade/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/termo/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url>
   

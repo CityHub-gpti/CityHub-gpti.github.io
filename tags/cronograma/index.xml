@@ -12,22 +12,13 @@
     
     
     <item>
-      <title>Cronograma do projeto</title>
-      <link>/docs/cronograma/</link>
+      <title>Gestão de qualidade do projeto</title>
+      <link>/docs/qualidade/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/docs/cronograma/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Termo de abertura do projeto</title>
-      <link>/docs/termo-abertura/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/termo-abertura/</guid>
-      <description>Termo de Abertura do Projeto Controle de versão    Data Versão Descrição Autor     2022-10-18 1 Elaboração inicial. Edgard Taver    Equipe do projeto    Nome Número USP     Edgard van Tol Taver 10686575   Gustavo Macedo Ribeiro 11366336   Felipe Munhos Escobar 11795620   Gabriel Braga Lagrotaria de Oliveira 11796600   Rodrigo Fernandes Gomes Vieira 11796548    Objetivo deste documento Autorizar formalmente o início do projeto Cityhub, contendo todas as informações necessárias para que o projeto seja apresentado, iniciado, desenvolvido e operado.</description>
+      <guid>/docs/qualidade/</guid>
+      <description>Objetivos deste documento Fornecer uma lista definindo os parâmetros de qualidade do projeto, bem como os graus que atendem os requisitos definidos
+Lista de Parâmetros de qualidade  Ações críticas que envolvem comunicação com serviços governamentais não devem passar de, aproximadamente, 1 segundo de atraso (não levando em conta o atraso do próprio sistema deles, apenas o nosso) Apresentação dos dados de forma iterativa para o usuário:  Gráficos em formato de pizza para indicação de problemas em bairros Gráficos em formato de histograma para visualização dos dados por datas/outro parâmetro   Relatórios devem conter um alto grau de personalização, definido por:  Quantidade de parâmetros modificáveis para composição do site Diferentes visualizações de gráficos Possibilidade de definição de métricas customizáveis, podendo ter um cadastro das mesmas, inserindo fórmulas ou algo semelhante que permita tal nível de customização   Tempo consumido para entrega do projeto Satisfação do usuário:  Facilidade de notificar e reportar sobre um problema Facilidade de interação Facilidade de visualização gráfica (em mapa) dos problemas na área   Carga horária para desenvolvimento do projeto  Pesquisa sobre integrações com órgãos públicos e API de geolocalização  Tempo estimado: 2 meses      </description>
     </item>
     
   </channel>
